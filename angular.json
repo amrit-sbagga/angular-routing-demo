@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-routing-demo"
+  "defaultProject": "angular-routing-demo",
+  "cli": {
+    "analytics": false
+  }
 }
